@@ -29,7 +29,7 @@
 
 ## Links dos repositórios utilizados em aula
 (!) Todos esses exercícios devem ser entregues para compor a nota de "Exercícios em Aula"
-- Data de Entrega:
+- Data de Entrega: 06/05/2024 [https://github.com/ricardoej/fundamentospoo-biblioteca](https://github.com/ricardoej/fundamentospoo-biblioteca)
 
 ## Link do trabalho prático
 - Data de Entrega:
