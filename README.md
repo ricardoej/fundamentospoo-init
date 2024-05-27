@@ -31,6 +31,7 @@
 (!) Todos esses exercícios devem ser entregues para compor a nota de "Exercícios em Aula"
 - Data de Entrega: dd/MM/yyyy [https://github.com/ricardoej/fundamentospoo-biblioteca](https://github.com/ricardoej/fundamentospoo-biblioteca)
 - Data de Entrega: 27/05/2024 [https://github.com/ricardoej/fundamentospoo-pedidos](https://github.com/ricardoej/fundamentospoo-pedidos)
+- Data de Entrega: 27/05/2024 [https://github.com/ricardoej/fundamentospoo-jogorpg](https://github.com/ricardoej/fundamentospoo-jogorpg)
 
 ## Link do trabalho prático
 - Data de Entrega:
