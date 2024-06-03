@@ -19,8 +19,8 @@
 - FINEGAN, Edward; LIGUORI, Robert. OCA Java SE 8: guia de estudos para o exame 1Z0-808. Grupo A, 2018. E-book. ISBN 9788582604779. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788582604779/. Acesso em: 26 set. 2023. (MINHA BIBLIOTECA)
 
 ## Sistema de Avaliação
-- Trabalho Prático - 40 pontos
-- Prova Prática - 30 pontos
+- Trabalho Prático - 30 pontos
+- Prova Prática - 40 pontos
 - Exercícios em aula - 20 pontos
 - Participação - 10 pontos
 
@@ -31,13 +31,13 @@
 (!) Todos esses exercícios devem ser entregues para compor a nota de "Exercícios em Aula"
 - Data de Entrega: dd/MM/yyyy [https://github.com/ricardoej/fundamentospoo-biblioteca](https://github.com/ricardoej/fundamentospoo-biblioteca)
 - Data de Entrega: 27/05/2024 [https://github.com/ricardoej/fundamentospoo-pedidos](https://github.com/ricardoej/fundamentospoo-pedidos)
-- Data de Entrega: 27/05/2024 [https://github.com/ricardoej/fundamentospoo-jogorpg](https://github.com/ricardoej/fundamentospoo-jogorpg)
+- Data de Entrega: 03/06/2024 [https://github.com/ricardoej/fundamentospoo-jogorpg](https://github.com/ricardoej/fundamentospoo-jogorpg)
 
 ## Link do trabalho prático
-- Data de Entrega:
+- Data de Entrega: 24/06/2024
 
 ## Prova prática
-- Data de Entrega: 
+- Data de Entrega: 17/06/2024
 
 ## Passos para desenvolvimento e entrega
 - Abrir o aplicativo Git Bash
