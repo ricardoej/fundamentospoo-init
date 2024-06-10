@@ -32,6 +32,7 @@
 - Data de Entrega: dd/MM/yyyy [https://github.com/ricardoej/fundamentospoo-biblioteca](https://github.com/ricardoej/fundamentospoo-biblioteca)
 - Data de Entrega: 27/05/2024 [https://github.com/ricardoej/fundamentospoo-pedidos](https://github.com/ricardoej/fundamentospoo-pedidos)
 - Data de Entrega: 03/06/2024 [https://github.com/ricardoej/fundamentospoo-jogorpg](https://github.com/ricardoej/fundamentospoo-jogorpg)
+- Data de Entrega: 10/06/2024 [https://github.com/ricardoej/fundamentospoo-exerciciomultiplaescolha](https://github.com/ricardoej/fundamentospoo-exerciciomultiplaescolha)
 
 ## Link do trabalho prático
 - Data de Entrega: 24/06/2024
