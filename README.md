@@ -40,6 +40,7 @@
 ## Prova prática
 - Data de Entrega: 17/06/2024
 - Atividade Prática: [https://github.com/ricardoej/fundamentospoo-avaliacaopratica/](https://github.com/ricardoej/fundamentospoo-avaliacaopratica/)
+- Gabarito: [https://www.gradepen.com/v1/gabaritos.php?ansid=1592957](https://www.gradepen.com/v1/gabaritos.php?ansid=1592957)
 
 ## Passos para desenvolvimento e entrega
 - Abrir o aplicativo Git Bash
