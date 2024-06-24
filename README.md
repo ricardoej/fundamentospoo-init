@@ -19,9 +19,9 @@
 - FINEGAN, Edward; LIGUORI, Robert. OCA Java SE 8: guia de estudos para o exame 1Z0-808. Grupo A, 2018. E-book. ISBN 9788582604779. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788582604779/. Acesso em: 26 set. 2023. (MINHA BIBLIOTECA)
 
 ## Sistema de Avaliação
-- Trabalho Prático - 30 pontos
+- Trabalho Prático - 20 pontos
 - Prova Prática - 40 pontos
-- Exercícios em aula - 20 pontos
+- Exercícios em aula - 30 pontos
 - Participação - 10 pontos
 
 ## Formulário de Avaliação do Professor/Disciplina
@@ -35,7 +35,7 @@
 - Data de Entrega: 10/06/2024 [https://github.com/ricardoej/fundamentospoo-exerciciomultiplaescolha](https://github.com/ricardoej/fundamentospoo-exerciciomultiplaescolha)
 
 ## Link do trabalho prático
-- Data de Entrega: 24/06/2024
+- Data de Entrega: 24/06/2024 [https://github.com/ricardoej/fundamentospoo-esports](https://github.com/ricardoej/fundamentospoo-esports)
 
 ## Prova prática
 - Data de Entrega: 17/06/2024
