@@ -36,6 +36,7 @@
 
 ## Link do trabalho prático
 - Data de Entrega: 24/06/2024 [https://github.com/ricardoej/fundamentospoo-esports](https://github.com/ricardoej/fundamentospoo-esports)
+- Pode ser feito em dupla
 
 ## Prova prática
 - Data de Entrega: 17/06/2024
